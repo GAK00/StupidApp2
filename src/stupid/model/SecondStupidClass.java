@@ -1,5 +1,6 @@
 package stupid.model;
 
-public class SecondStupidClass {
+public class SecondStupidClass 
+{
 
 }
